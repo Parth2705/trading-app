@@ -1,3 +1,3 @@
 # Trading_App
 
-Trading App similar to Robinhood - Virtusa Project
+Trading App similar to Robinhood 
